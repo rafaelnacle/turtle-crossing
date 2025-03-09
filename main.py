@@ -20,3 +20,4 @@ while game_is_on:
     screen.update()
 
     car_manager.create_car()
+    car_manager.move_cars()
